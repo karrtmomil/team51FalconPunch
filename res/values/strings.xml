@@ -29,4 +29,8 @@ of a cellular automaton.
     -->
     <string name="color_coding_title">Color coding?</string>
     <string name="color_coding_summary">Map the rate of survival to distinct colours</string>
+
+    <!-- Adding strings to try to compile -->
+    <string name="hello_world">hello_world: Is this needed?</string>
+    <string name="action_settings">action_settings: Is this needed?</string>
 </resources>
